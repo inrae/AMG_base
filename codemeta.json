@@ -1,0 +1,70 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Agronomy",
+    "author": [
+        {
+            "id": "https://orcid.org/0000-0002-2078-3570",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "INRAE, UMR Eco&Sols"
+            },
+            "email": "fabien.ferchaud@inrae.fr",
+            "familyName": "Ferchaud",
+            "givenName": "Fabien"
+        },
+        {
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "INRAE Transfert"
+            },
+            "email": "toky.ramananjatovo@inrae.fr",
+            "familyName": "Ramananjatovo",
+            "givenName": "Toky"
+        }
+    ],
+    "contributor": [
+        {
+            "id": "https://orcid.org/0000-0002-2164-3334",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "INRAE, UMR ECOSYS"
+            },
+            "email": "florent.levavasseur@inrae.fr",
+            "familyName": "Levavasseur",
+            "givenName": "Florent"
+        },
+        {
+            "id": "https://orcid.org/0000-0002-5723-6925",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "URCA, UMR FARE"
+            },
+            "email": "hugues.clivot@univ-reims.fr",
+            "familyName": "Clivot",
+            "givenName": "Hugues"
+        }
+    ],
+    "codeRepository": "https://github.com/inrae/AMG_base.git",
+    "dateCreated": "2023-06-02",
+    "dateModified": "2024-04-20",
+    "datePublished": "2024-04-20",
+    "description": "AMB_base simulates topsoil soil organic carbon stock evolution in arable cropping systems. It is a basic R version of the AMGv2 model (without calculation of C3 and C4 stocks).",
+    "downloadUrl": "https://github.com/inrae/AMG_base/archive/refs/heads/release.zip",
+    "keywords": [
+        "soil organic carbon",
+        "soil carbon storage",
+        "carbon inputs",
+        "mineralization"
+    ],
+    "license": "https://spdx.org/licenses/CECILL-C",
+    "name": "AMG_base",
+    "programmingLanguage": "R",
+    "softwareRequirements": "R versions ≥ 4.0.0",
+    "version": "1.0.0",
+    "referencePublication": "https://doi.org/10.1016/j.envsoft.2019.04.004"
+}
