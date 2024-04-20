@@ -1,0 +1,14 @@
+Parameter;Value;Function;Source
+Ps;0.65;;https://doi.org/10.1016/j.envsoft.2019.04.004
+k0;0.29;k;https://doi.org/10.1016/j.envsoft.2019.04.004
+aT;25;Temperature;https://doi.org/10.1016/j.envsoft.2019.04.004
+cT;0.12;Temperature;https://doi.org/10.1016/j.envsoft.2019.04.004
+Tref;15;Temperature;https://doi.org/10.1016/j.envsoft.2019.04.004
+aH;0.03;Moisture;https://doi.org/10.1016/j.envsoft.2019.04.004
+bH;5.247;Moisture;https://doi.org/10.1016/j.envsoft.2019.04.004
+am;0.002519;Clay;https://doi.org/10.1016/j.envsoft.2019.04.004
+cm;0.0015;CaCO3;https://doi.org/10.1016/j.envsoft.2019.04.004
+apH;0.112;pH;https://doi.org/10.1016/j.envsoft.2019.04.004
+bpH;8.5;pH;https://doi.org/10.1016/j.envsoft.2019.04.004
+aCN;0.06;C:N;https://doi.org/10.1016/j.envsoft.2019.04.004
+bCN;11;C:N;https://doi.org/10.1016/j.envsoft.2019.04.004

@@ -1,0 +1,140 @@
+Crop_type;Crop_name;Crop_name_FR;Plant_group;RP;RS;RR;RE;Beta;HI;SR;PSS;h_AG;h_BG;C_conc_AG;C_conc_BG;Source
+MC;Alfalfa;Luzerne;C3;0.507;0.056;0.265;0.172;0.966;0.9;1.937;1;0.276;0.4;0.44;0.4;Solebiom project
+MC;Bare soil;Sol nu;C3;1;1;1;1;1;0.5;1;1;1;0.4;0.44;0.4;Solebiom project
+MC;Belgian endive;Endive;C3;0.795;0.159;0.028;0.018;0.926;0.833;31.35;1;0.315;0.4;0.44;0.4;Solebiom project
+MC;Broccoli;Chou brocoli;C3;0.431;0.431;0.084;0.054;0.926;0.5;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Brown mustard;Moutarde brune graine;C3;0.142;0.625;0.141;0.092;0.929;0.186;4.95;0.2;0.227;0.4;0.44;0.4;Solebiom project
+MC;Brussels sprout;Chou de Bruxelles;C3;0.431;0.431;0.084;0.054;0.926;0.5;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Buckwheat;Sarrasin;C3;0.34;0.493;0.101;0.066;0.948;0.408;7.517;0.5;0.233;0.4;0.44;0.4;Solebiom project
+MC;Cabbage;Chou pomme;C3;0.718;0.144;0.084;0.054;0.926;0.833;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Camelina;Cameline;C3;0.151;0.472;0.229;0.149;0.929;0.242;2.475;0.2;0.227;0.4;0.44;0.4;Solebiom project
+MC;Cauliflower;Chou-fleur;C3;0.718;0.144;0.084;0.054;0.926;0.833;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Chickpea;Pois chiche;C3;0.327;0.315;0.217;0.141;0.961;0.51;2.692;0.4;0.276;0.4;0.44;0.4;Solebiom project
+MC;Chicory;Chicorée;C3;0.742;0.212;0.028;0.018;0.926;0.778;31.35;1;0.315;0.4;0.44;0.4;Solebiom project
+MC;Collard greens;Chou fourrager;C3;0.718;0.144;0.084;0.054;0.926;0.833;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Durum wheat;Blé dur;C3;0.368;0.466;0.101;0.066;0.96;0.441;7.517;0.5;0.217;0.4;0.44;0.4;Solebiom project
+MC;English ryegrass;Ray-grass anglais;C3;0.519;0.104;0.229;0.149;0.946;0.833;2.475;1;0.217;0.4;0.44;0.4;Solebiom project
+MC;Faba bean;Féverole;C3;0.387;0.342;0.164;0.107;0.955;0.531;4.04;0.4;0.276;0.4;0.44;0.4;Solebiom project
+MC;Fiber flax;Lin fibre;C3;0.776;0.086;0.084;0.054;0.929;0.9;9.35;1;0.27;0.4;0.44;0.4;Solebiom project
+MC;Fiber hemp;Chanvre fibre;C3;0.598;0.188;0.129;0.084;0.983;0.761;5.524;1;0.216;0.4;0.44;0.4;Solebiom project
+MC;Field Pea;Pois protéagineux;C3;0.476;0.358;0.101;0.066;0.963;0.571;7.517;0.4;0.276;0.4;0.44;0.4;Solebiom project
+MC;Flageolet bean;Haricot flageolet;C3;0.355;0.507;0.084;0.054;0.954;0.412;9.35;0.1;0.34;0.4;0.44;0.4;Solebiom project
+MC;Fodder beet;Betterave fourragère;C3;0.742;0.212;0.028;0.018;0.926;0.778;31.35;0.09;0.315;0.4;0.44;0.4;Solebiom project
+MC;Garden carrot;Carotte légumière;C3;0.835;0.119;0.028;0.018;0.926;0.875;31.35;1;0.371;0.4;0.44;0.4;Solebiom project
+MC;Grain maize;Maïs grain;C4;0.394;0.411;0.118;0.077;0.952;0.49;6.207;0.5;0.233;0.4;0.44;0.4;Solebiom project
+MC;Grass-Legume mixture;Mélange Graminées-Légumineuses;C3;0.75;0.083;0.101;0.066;0.948;0.9;7.517;1;0.276;0.4;0.44;0.4;Solebiom project
+MC;Green bean;Haricot vert;C3;0.209;0.653;0.084;0.054;0.955;0.242;9.35;1;0.34;0.4;0.44;0.4;Solebiom project
+MC;Green peas;Pois de conserve;C3;0.199;0.663;0.084;0.054;0.955;0.231;9.35;1;0.34;0.4;0.44;0.4;Solebiom project
+MC;Hemp;Chanvre chèvenis;C3;0.058;0.728;0.129;0.084;0.983;0.074;5.524;0.26;0.216;0.4;0.44;0.4;Solebiom project
+MC;Industrial carrot;Carotte industrielle;C3;0.795;0.159;0.028;0.018;0.926;0.833;31.35;1;0.371;0.4;0.44;0.4;Solebiom project
+MC;Italian ryegrass;Ray-grass d'Italie;C3;0.437;0.087;0.289;0.188;0.946;0.833;1.65;1;0.217;0.4;0.44;0.4;Solebiom project
+MC;Lentil;Lentille;C3;0.271;0.563;0.101;0.066;0.939;0.325;7.517;0.2;0.276;0.4;0.44;0.4;Solebiom project
+MC;Lettuce;Laitue;C3;0.575;0.287;0.084;0.054;0.75;0.667;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Lupine;Lupin;C3;0.344;0.461;0.118;0.077;0.955;0.427;6.207;0.61;0.276;0.4;0.44;0.4;Solebiom project
+MC;Meslin;Méteil;C3;0.691;0.077;0.141;0.092;0.75;0.9;4.95;1;0.31;0.4;0.44;0.4;Solebiom project
+MC;Mustard (whole-plant);Moutarde (plante entière);C3;0.738;0.105;0.095;0.062;0.929;0.875;8.056;1;0.227;0.4;0.44;0.4;Solebiom project
+MC;Oilseed flax;Lin oléagineux;C3;0.309;0.552;0.084;0.054;0.929;0.359;9.35;0.2;0.27;0.4;0.44;0.4;Solebiom project
+MC;Onion;Oignon;C3;0.881;0.11;0.006;0.004;0.926;0.889;163.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Potatoes;Pomme de terre;C3;0.808;0.147;0.028;0.018;0.926;0.846;31.35;1;0.238;0.4;0.44;0.4;Solebiom project
+MC;Potatoes for starch;Pomme de terre fécule;C3;0.808;0.147;0.028;0.018;0.926;0.846;31.35;1;0.238;0.4;0.44;0.4;Solebiom project
+MC;Rye;Seigle ;C3;0.408;0.425;0.101;0.066;0.951;0.49;7.517;0.5;0.217;0.4;0.44;0.4;Solebiom project
+MC;Silage maize;Maïs fourrage;C4;0.702;0.027;0.164;0.107;0.952;0.963;4.04;1;0.233;0.4;0.44;0.4;Solebiom project
+MC;Sorghum;Sorgho;C4;0.305;0.424;0.164;0.107;0.952;0.419;4.04;0.3;0.233;0.4;0.44;0.4;Solebiom project
+MC;Soybean;Soja;C3;0.267;0.567;0.101;0.066;0.939;0.32;7.517;0.4;0.276;0.4;0.44;0.4;Solebiom project
+MC;Spinach;Epinard;C3;0.47;0.392;0.084;0.054;0.75;0.545;9.35;1;0.344;0.4;0.44;0.4;Solebiom project
+MC;Spring barley;Orge de printemps;C3;0.442;0.391;0.101;0.066;0.941;0.531;7.517;0.5;0.233;0.4;0.44;0.4;Solebiom project
+MC;Spring oat;Avoine de printemps;C3;0.417;0.417;0.101;0.066;0.939;0.5;7.517;0.5;0.233;0.4;0.44;0.4;Solebiom project
+MC;Spring rapeseed;Colza de printemps;C3;0.149;0.619;0.141;0.092;0.919;0.194;4.95;0.2;0.231;0.4;0.44;0.4;Solebiom project
+MC;Spring wheat;Blé de printemps;C3;0.425;0.409;0.101;0.066;0.96;0.51;7.517;0.5;0.217;0.4;0.44;0.4;Solebiom project
+MC;Sugar beet;Betterave sucrière;C3;0.742;0.212;0.028;0.018;0.926;0.778;31.35;0.09;0.315;0.4;0.44;0.4;Solebiom project
+MC;Sunflower;Tournesol;C3;0.274;0.559;0.101;0.066;0.929;0.329;7.517;0.2;0.251;0.4;0.44;0.4;Solebiom project
+MC;Triticale;Triticale ;C3;0.368;0.466;0.101;0.066;0.951;0.441;7.517;0.5;0.217;0.4;0.44;0.4;Solebiom project
+MC;Winter barley;Orge d'hiver;C3;0.425;0.409;0.101;0.066;0.941;0.51;7.517;0.5;0.222;0.4;0.44;0.4;Solebiom project
+MC;Winter oat;Avoine d'hiver;C3;0.417;0.417;0.101;0.066;0.939;0.5;7.517;0.5;0.233;0.4;0.44;0.4;Solebiom project
+MC;Winter rapeseed;Colza d'hiver;C3;0.19;0.577;0.141;0.092;0.919;0.248;4.95;0.415;0.231;0.4;0.44;0.4;Solebiom project
+MC;Winter rapeseed intercropped;Colza associé (avec légumineuses);C3;0.182;0.586;0.141;0.092;0.919;0.237;4.95;0.415;0.231;0.4;0.44;0.4;Solebiom project
+MC;Winter wheat;Blé d'hiver;C3;0.399;0.434;0.101;0.066;0.96;0.479;7.517;0.5;0.217;0.4;0.44;0.4;Solebiom project
+MC;Winter wheat (whole-plant);Blé (plante entière);C3;0.651;0.059;0.176;0.114;0.96;0.917;3.673;1;0.31;0.4;0.44;0.4;Solebiom project
+CC;Alexandria clover;Trèfle Alexandrie;C3;0;0.908;0.056;0.036;0.75;0;14.85;1;0.35;0.4;0.44;0.4;Solebiom project
+CC;Alfalfa;Luzerne;C3;0;0.671;0.199;0.129;0.75;0;3.064;1;0.335;0.4;0.44;0.4;Solebiom project
+CC;Asteraceae;Asteracees;C3;0;0.852;0.089;0.058;0.75;0;8.663;1;0.364;0.4;0.44;0.4;Solebiom project
+CC;Brown mustard;Moutarde brune;C3;0;0.729;0.164;0.107;0.75;0;4.04;1;0.341;0.4;0.44;0.4;Solebiom project
+CC;Buckwheat;Sarrasin;C3;0;0.973;0.017;0.011;0.75;0;53.35;1;0.329;0.4;0.44;0.4;Solebiom project
+CC;C4 grasses;Graminées C4;C4;0;0.862;0.084;0.054;0.75;0;9.35;1;0.336;0.4;0.44;0.4;Solebiom project
+CC;Caryophyllaceae;Caryophyllacees;C3;0;0.862;0.084;0.054;0.75;0;9.35;1;0.313;0.4;0.44;0.4;Solebiom project
+CC;Cereal regrowth;Repousse céréales;C3;0;0.514;0.295;0.192;0.75;0;1.585;1;0.395;0.4;0.44;0.4;Solebiom project
+CC;Common rye;Seigle classique;C3;0;0.341;0.399;0.26;0.75;0;0.776;1;0.416;0.4;0.44;0.4;Solebiom project
+CC;Corn cockle;Nielle des blés;C3;0;0.862;0.084;0.054;0.75;0;9.35;1;0.313;0.4;0.44;0.4;Solebiom project
+CC;Cruciferous;Crucifères;C3;0;0.748;0.153;0.099;0.75;0;4.461;1;0.383;0.4;0.44;0.4;Solebiom project
+CC;Daikon;Radis chinois;C3;0;0.392;0.368;0.239;0.75;0;0.969;1;0.397;0.4;0.44;0.4;Solebiom project
+CC;Ethiopian mustard;Moutarde Ethiopie;C3;0;0.862;0.084;0.054;0.75;0;9.35;1;0.373;0.4;0.44;0.4;Solebiom project
+CC;Faba bean;Féverole;C3;0;0.88;0.072;0.047;0.75;0;11.042;1;0.384;0.4;0.44;0.4;Solebiom project
+CC;Forage radish;Radis fourrager;C3;0;0.862;0.084;0.054;0.75;0;9.35;1;0.397;0.4;0.44;0.4;Solebiom project
+CC;Forage sorghum;Sorgho fourrager;C3;0;0.918;0.05;0.032;0.75;0;16.683;1;0.336;0.4;0.44;0.4;Solebiom project
+CC;Forestry rye;Seigle forestier ;C3;0;0.642;0.217;0.141;0.75;0;2.692;1;0.413;0.4;0.44;0.4;Solebiom project
+CC;Foxtail millet;Moha;C3;0;0.871;0.078;0.051;0.75;0;10.136;1;0.353;0.4;0.44;0.4;Solebiom project
+CC;Grasses;Graminées;C3;0;0.739;0.158;0.103;0.75;0;4.243;1;0.39;0.4;0.44;0.4;Solebiom project
+CC;Hairy vetch;Vesce velue;C3;0;0.936;0.039;0.025;0.75;0;21.921;1;0.409;0.4;0.44;0.4;Solebiom project
+CC;Hybrid clover;Trèfle hybride;C3;0;0.573;0.259;0.168;0.75;0;2.017;1;0.373;0.4;0.44;0.4;Solebiom project
+CC;Hybrid ryegrass;Raygrass hybride;C3;0;0.871;0.078;0.051;0.75;0;10.136;1;0.384;0.4;0.44;0.4;Solebiom project
+CC;Hydrophyllaceae;Hydrophyllacee;C3;0;0.918;0.05;0.032;0.75;0;16.683;1;0.423;0.4;0.44;0.4;Solebiom project
+CC;Incarnate clover;Trèfle incarnat;C3;0;0.918;0.05;0.032;0.75;0;16.683;1;0.395;0.4;0.44;0.4;Solebiom project
+CC;Italian ryegrass;Ray-grass d'Italie;C3;0;0.583;0.253;0.164;0.75;0;2.1;1;0.39;0.4;0.44;0.4;Solebiom project
+CC;Legumes;Légumineuses;C3;0;0.852;0.089;0.058;0.75;0;8.663;1;0.379;0.4;0.44;0.4;Solebiom project
+CC;Lupine;Lupin;C3;0;0.88;0.072;0.047;0.75;0;11.042;1;0.35;0.4;0.44;0.4;Solebiom project
+CC;Mallow;Grande mauve;C3;0;0.691;0.187;0.122;0.75;0;3.35;1;0.302;0.4;0.44;0.4;Solebiom project
+CC;Malvaceae;Malvacees;C3;0;0.691;0.187;0.122;0.75;0;3.35;1;0.302;0.4;0.44;0.4;Solebiom project
+CC;Melilot;Mélilot;C3;0;0.341;0.399;0.26;0.75;0;0.776;1;0.417;0.4;0.44;0.4;Solebiom project
+CC;Mixture;Mélange d'espèces;C3;0;0.671;0.199;0.129;0.75;0;3.064;1;0.361;0.4;0.44;0.4;Solebiom project
+CC;Mustard;Moutarde;C3;0;0.786;0.129;0.084;0.75;0;5.524;1;0.357;0.4;0.44;0.4;Solebiom project
+CC;Nyger;Nyger;C3;0;0.834;0.101;0.066;0.75;0;7.517;1;0.383;0.4;0.44;0.4;Solebiom project
+CC;Oat;Avoine;C3;0;0.786;0.129;0.084;0.75;0;5.524;1;0.369;0.4;0.44;0.4;Solebiom project
+CC;Oat-Turnip rape mixture;Mélange Avoine-Navette;C3;0;0.593;0.247;0.16;0.75;0;2.187;1;0.37;0.4;0.44;0.4;Solebiom project
+CC;Pea protein;Pois proteagineux;C3;0;0.918;0.05;0.032;0.75;0;16.683;1;0.403;0.4;0.44;0.4;Solebiom project
+CC;Persian clover;Trèfle de Perse;C3;0;0.824;0.107;0.069;0.75;0;7.034;1;0.373;0.4;0.44;0.4;Solebiom project
+CC;Phacelia;Phacélie;C3;0;0.918;0.05;0.032;0.75;0;16.683;1;0.423;0.4;0.44;0.4;Solebiom project
+CC;Polygonaceae;Polygonacee;C3;0;0.973;0.017;0.011;0.75;0;53.35;1;0.329;0.4;0.44;0.4;Solebiom project
+CC;Purple clover;Trèfle violet;C3;0;0.662;0.205;0.133;0.75;0;2.933;1;0.373;0.4;0.44;0.4;Solebiom project
+CC;Purple vetch;Vesce pourpre;C3;0;0.982;0.011;0.007;0.75;0;80.85;1;0.382;0.4;0.44;0.4;Solebiom project
+CC;Radish;Radis;C3;0;0.862;0.084;0.054;0.75;0;9.35;1;0.397;0.4;0.44;0.4;Solebiom project
+CC;Rapeseed;Colza;C3;0;0.767;0.141;0.092;0.75;0;4.95;1;0.391;0.4;0.44;0.4;Solebiom project
+CC;Rocket;Roquette;C3;0;0.927;0.044;0.029;0.75;0;18.975;1;0.435;0.4;0.44;0.4;Solebiom project
+CC;Rough oat;Avoine rude;C3;0;0.927;0.044;0.029;0.75;0;18.975;1;0.392;0.4;0.44;0.4;Solebiom project
+CC;Rye;Seigle;C3;0;0.758;0.147;0.095;0.75;0;4.696;1;0.42;0.4;0.44;0.4;Solebiom project
+CC;Rye-Vetch mixture;Mélange Seigle-Vesce;C3;0;0.748;0.153;0.099;0.75;0;4.461;1;0.352;0.4;0.44;0.4;Solebiom project
+CC;Sainfoin;Sainfoin;C3;0;0.777;0.135;0.088;0.75;0;5.225;1;0.384;0.4;0.44;0.4;Solebiom project
+CC;Sorghum;Sorgho;C3;0;0.805;0.118;0.077;0.75;0;6.207;1;0.336;0.4;0.44;0.4;Solebiom project
+CC;Soybean;Soja;C3;0;0.927;0.044;0.029;0.75;0;18.975;1;0.38;0.4;0.44;0.4;Solebiom project
+CC;Spring oat;Avoine de printemps;C3;0;0.871;0.078;0.051;0.75;0;10.136;1;0.369;0.4;0.44;0.4;Solebiom project
+CC;Spring pea;Pois de printemps;C3;0;0.945;0.033;0.022;0.75;0;25.85;1;0.41;0.4;0.44;0.4;Solebiom project
+CC;Sunflower;Tournesol;C3;0;0.871;0.078;0.051;0.75;0;10.136;1;0.346;0.4;0.44;0.4;Solebiom project
+CC;Turnip;Navet;C3;0;0.514;0.295;0.192;0.75;0;1.585;1;0.397;0.4;0.44;0.4;Solebiom project
+CC;Turnip rape;Navette;C3;0;0.739;0.158;0.103;0.75;0;4.243;1;0.37;0.4;0.44;0.4;Solebiom project
+CC;Vetch;Vesce commune;C3;0;0.945;0.033;0.022;0.75;0;25.85;1;0.355;0.4;0.44;0.4;Solebiom project
+CC;White mustard;Moutarde blanche;C3;0;0.89;0.067;0.043;0.75;0;12.1;1;0.356;0.4;0.44;0.4;Solebiom project
+CC;Winter wheat;Blé d'hiver;C3;0;0.82;0.109;0.071;0.75;0;6.839;1;0.071;0.4;0.44;0.4;Solebiom project
+CCH;Barley (grains);Orge (grains);C3;0.401;0.386;0.129;0.084;0.75;0.51;5.524;0.5;0.222;0.4;0.44;0.4;Solebiom project
+CCH;Barley (whole-plant);Orge (plante entière);C3;0.651;0.059;0.176;0.114;0.75;0.917;3.673;1;0.393;0.4;0.44;0.4;Solebiom project
+CCH;Buckwheat (grains);Sarrasin (grains);C3;0.352;0.51;0.084;0.054;0.75;0.408;9.35;0.5;0.233;0.4;0.44;0.4;Solebiom project
+CCH;Camelina (grains);Cameline (grains);C3;0.174;0.545;0.17;0.11;0.75;0.242;3.85;0.2;0.227;0.4;0.44;0.4;Solebiom project
+CCH;Clover (whole-plant);Trèfle (plante entière);C3;0.682;0.076;0.147;0.095;0.75;0.9;4.696;1;0.35;0.4;0.44;0.4;Solebiom project
+CCH;Faba bean (whole-plant);Féverole (plante entière);C3;0.801;0.089;0.067;0.043;0.75;0.9;12.1;1;0.376;0.4;0.44;0.4;Solebiom project
+CCH;Grain maize;Maïs (grains);C4;0.399;0.416;0.112;0.073;0.75;0.49;6.6;0.5;0.233;0.4;0.44;0.4;Solebiom project
+CCH;Green bean;Haricot vert;C3;0.22;0.688;0.056;0.036;0.75;0.242;14.85;1;0.34;0.4;0.44;0.4;Solebiom project
+CCH;Green peas (grains);Pois de conserve (grains);C3;0.21;0.699;0.056;0.036;0.75;0.231;14.85;1;0.34;0.4;0.44;0.4;Solebiom project
+CCH;Italian ryegrass (whole-plant);Ray-grass d'Italie (plante entière);C3;0.56;0.062;0.229;0.149;0.75;0.9;2.475;1;0.384;0.4;0.44;0.4;Solebiom project
+CCH;Meslin (whole-plant);Méteil (plante entière);C3;0.691;0.077;0.141;0.092;0.75;0.9;4.95;1;0.31;0.4;0.44;0.4;Solebiom project
+CCH;Mixture (whole-plant);Mélange d'espèces (plante entière);C3;0.708;0.079;0.129;0.084;0.75;0.9;5.524;1;0.31;0.4;0.44;0.4;Solebiom project
+CCH;Mustard (whole-plant);Moutarde (plante entière);C3;0.759;0.084;0.095;0.062;0.75;0.9;8.056;1;0.356;0.4;0.44;0.4;Solebiom project
+CCH;Oat (whole-plant);Avoine (plante entière);C3;0.712;0.065;0.135;0.088;0.75;0.917;5.225;1;0.393;0.4;0.44;0.4;Solebiom project
+CCH;Phacelia (whole-plant);Phacélie (plante entière);C3;0.792;0.088;0.072;0.047;0.75;0.9;11.042;1;0.424;0.4;0.44;0.4;Solebiom project
+CCH;Potatoes;Pomme de terre;C3;0.808;0.147;0.028;0.018;0.75;0.846;31.35;1;0.238;0.4;0.44;0.4;Solebiom project
+CCH;Rapeseed (whole-plant);Colza (plante entière);C3;0.622;0.069;0.187;0.122;0.75;0.9;3.35;1;0.392;0.4;0.44;0.4;Solebiom project
+CCH;Rye (whole-plant);Seigle (plante entière);C3;0.589;0.054;0.217;0.141;0.75;0.917;2.692;1;0.413;0.4;0.44;0.4;Solebiom project
+CCH;Silage maize;Maïs ensilage;C4;0.733;0.081;0.112;0.073;0.75;0.9;6.6;1;0.233;0.4;0.44;0.4;Solebiom project
+CCH;Soybean (grains);Soja (grains);C3;0.276;0.586;0.084;0.054;0.75;0.32;9.35;0.4;0.276;0.4;0.44;0.4;Solebiom project
+CCH;Spinach;Epinard;C3;0.495;0.413;0.056;0.036;0.75;0.545;14.85;1;0.344;0.4;0.44;0.4;Solebiom project
+CCH;Sunflower (grains);Tournesol (grains);C3;0.225;0.562;0.129;0.084;0.75;0.286;5.524;0.2;0.25;0.4;0.44;0.4;Solebiom project
+CCH;Triticale (whole-plant);Triticale (plante entière);C3;0.651;0.059;0.176;0.114;0.75;0.917;3.673;1;0.393;0.4;0.44;0.4;Solebiom project
+CCH;Turnip rape (whole-plant);Navette (plante entière);C3;0.733;0.081;0.112;0.073;0.75;0.9;6.6;1;0.37;0.4;0.44;0.4;Solebiom project
+CCH;Vetch (whole-plant);Vesce (plante entière);C3;0.809;0.09;0.061;0.04;0.75;0.9;13.35;1;0.406;0.4;0.44;0.4;Solebiom project

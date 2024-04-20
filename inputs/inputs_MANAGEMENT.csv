@@ -1,0 +1,43 @@
+Trial;Treatment;Year;Crop_type;Crop_name;Yield;Hum;Residues;EOM_name_1;EOM_dose_1;EOM_name_2;EOM_dose_2;EOM_name_3;EOM_dose_3;Tillage_depth;Irrigation
+TRIAL_1;FYM;2000;MC;Bare soil;0;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2001;MC;Grain maize;10.25;0;Returned;Bovine manure;38.41;;;;;28;0
+TRIAL_1;FYM;2002;MC;Winter wheat;6.81;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2003;MC;Grain maize;7.37;0;Returned;Bovine manure;34.94;;;;;28;0
+TRIAL_1;FYM;2004;MC;Spring barley;4.14;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2005;MC;Grain maize;10.43;0;Returned;Bovine manure;38.193;;;;;28;0
+TRIAL_1;FYM;2006;MC;Winter wheat;5.85;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2007;MC;Sugar beet;17.94;0;Returned;Bovine manure;30.747;;;;;28;0
+TRIAL_1;FYM;2008;MC;Spring barley;5.64;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2009;MC;Grain maize;10.66;0;Returned;Bovine manure;34.663;;;;;28;0
+TRIAL_1;FYM;2010;MC;Winter wheat;6.41;0;Returned;Bovine manure;25.205;;;;;28;0
+TRIAL_1;FYM;2011;MC;Sugar beet;16.05;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2012;MC;Spring barley;6.11;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2013;MC;Grain maize;10.24;0;Returned;Bovine manure;26.735;;;;;28;0
+TRIAL_1;FYM;2014;MC;Winter wheat;5.89;0;Returned;Bovine manure;79.675;;;;;28;0
+TRIAL_1;FYM;2014;CC;Mustard;4.36;0;Returned;;;;;;;10;0
+TRIAL_1;FYM;2015;MC;Sugar beet;15.01;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2016;MC;Spring barley;3.31;0;Returned;Bovine manure;56.566;;;;;28;0
+TRIAL_1;FYM;2016;CC;Mustard;5.58;0;Returned;;;;;;;10;0
+TRIAL_1;FYM;2017;MC;Grain maize;6.8;0;Returned;;;;;;;28;0
+TRIAL_1;FYM;2018;MC;Winter wheat;6.33;0;Returned;Bovine manure;92.41;;;;;28;0
+TRIAL_1;CON;2000;MC;Bare soil;0;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2001;MC;Grain maize;10.64;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2002;MC;Winter wheat;7.15;0;Exported;;;;;;;28;0
+TRIAL_1;CON;2003;MC;Grain maize;7.85;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2004;MC;Spring barley;3.67;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2005;MC;Grain maize;9.9;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2006;MC;Winter wheat;7.7;0;Exported;;;;;;;28;0
+TRIAL_1;CON;2007;MC;Sugar beet;16.47;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2008;MC;Spring barley;4.52;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2009;MC;Grain maize;10.7;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2010;MC;Winter wheat;6.64;0;Exported;;;;;;;28;0
+TRIAL_1;CON;2011;MC;Sugar beet;12.93;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2012;MC;Spring barley;6.21;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2013;MC;Grain maize;10.26;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2014;MC;Winter wheat;5.58;0;Exported;;;;;;;28;0
+TRIAL_1;CON;2014;CC;Mustard;5.14;0;Returned;;;;;;;10;0
+TRIAL_1;CON;2015;MC;Sugar beet;16.59;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2016;MC;Spring barley;2.59;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2016;CC;Mustard;4.92;0;Returned;;;;;;;10;0
+TRIAL_1;CON;2017;MC;Grain maize;7.14;0;Returned;;;;;;;28;0
+TRIAL_1;CON;2018;MC;Winter wheat;5.98;0;Exported;;;;;;;28;0

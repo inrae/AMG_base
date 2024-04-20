@@ -1,0 +1,106 @@
+File;Variable;Definition;Type;Unit
+inputs_MANAGEMENT;Trial;Name of the trial;Character;
+inputs_MANAGEMENT;Treatment;Name of the treatment in the trial;Character;
+inputs_MANAGEMENT;Year;Year;Integer;
+inputs_MANAGEMENT;Crop_type;Crop type (MC for main crop, CC for cover crop, CCH for harvested cover crop);Character [MC,CC,CCH];
+inputs_MANAGEMENT;Crop_name;Crop name;Character;
+inputs_MANAGEMENT;Yield;Crop yield (in fresh weight);Real;t FW.ha-1
+inputs_MANAGEMENT;Hum;Water content of the harvested organ;Real [0-100];% FW
+inputs_MANAGEMENT;Residues;Crop residue management (Returned if returned, Exported if exported);Character [Returned,Exported];
+inputs_MANAGEMENT;EOM_name_1;Name of the first exogenous organic matter;Character;
+inputs_MANAGEMENT;EOM_dose_1;Application dose of the first exogenous organic matter (in fresh weight);Real;t FW.ha-1
+inputs_MANAGEMENT;EOM_name_2;Name of the second exogenous organic matter;Character;
+inputs_MANAGEMENT;EOM_dose_2;Application dose of the second exogenous organic matter (in fresh weight);Real;t FW.ha-1
+inputs_MANAGEMENT;EOM_name_3;Name of the third exogenous organic matter;Character;
+inputs_MANAGEMENT;EOM_dose_3;Application dose of the third exogenous organic matter (in fresh weight);Real;t FW.ha-1
+inputs_MANAGEMENT;Tillage_depth;Maximum tillage depth;Real;cm
+inputs_MANAGEMENT;Irrigation;Total irrigation dose;Real;mm
+inputs_SOIL;Trial;Name of the trial;Character;
+inputs_SOIL;Treatment;Name of the treatment in the trial;Character;
+inputs_SOIL;Clay;Clay content in the considered soil depth (measured after decarbonation);Real;g.kg-1 DW
+inputs_SOIL;CaCO3;Calcium carbonate content in the considered soil depth;Real;g.kg-1 DW
+inputs_SOIL;pH;Soil pH in the considered soil depth (measured in water);Real;
+inputs_SOIL;CN_ratio;Soil C:N ratio in the considered soil depth;Real;
+inputs_SOIL;Considered_depth;Depth of SOC stock calculation;Real;cm
+inputs_SOIL;Initial_SOC_stock;Initial SOC stock for the considered soil depth;Real;tC.ha-1
+inputs_METEO;Trial;Name of the trial;Character;
+inputs_METEO;Year;Year;Integer;
+inputs_METEO;T_mean;Annual mean temperature;Real;°C
+inputs_METEO;Rainfall;Annual rainfall;Real;mm
+inputs_METEO;PET;Annual Potential Evapotranspiration (Penman calculation);Real;mm
+parameters_PLANT;Crop type (MC for main crop, CC for cover crop, CCH for harvested cover crop);Character [MC,CC,CCH];
+parameters_PLANT;Crop_name;Crop name (in english);Character;
+parameters_PLANT;Plant_group;Crop photosynthesis group;Character [C3,C4];
+parameters_PLANT;RP;C allocation coefficient for harvested organs, adapted from Bolinder et al. (2007);Real [0-1];
+parameters_PLANT;RS;C allocation coefficient for aboveground residues, adapted from Bolinder et al. (2007);Real [0-1];
+parameters_PLANT;RR;C allocation coefficient for roots, adapted from Bolinder et al. (2007);Real [0-1];
+parameters_PLANT;RE;C allocation coefficient for extra-root (rhizodeposit C), adapted from Bolinder et al. (2007);Real [0-1];
+parameters_PLANT;Beta;Root distribution coefficient adapted from Fan et al. (2016);Real;
+parameters_PLANT;HI;Harvest index;Real;
+parameters_PLANT;SR;Shoot-to-root ratio;Real;
+parameters_PLANT;PSS;Fraction of C in straw and stubble systematically returned to the soil;Real [0-1];
+parameters_PLANT;h_AG;Humification coefficient of aboveground crop residues ;Real [0-1];
+parameters_PLANT;h_BG;Humification coefficient of belowground crop residues ;Real [0-1];
+parameters_PLANT;C_conc_AG;C content of the aboveground crop residues;Real;gC.g-1 DW
+parameters_PLANT;C_conc_BG;C content of the belowground crop residues;Real;gC.g-1 DW
+parameters_EOM;EOM_name;Name of the exogenous organic matter;Character;
+parameters_EOM;C_conc_EOM;C content of the EOM;Real;kgC.t-1 FW
+parameters_EOM;h_EOM;Humification coefficient of the EOM;Real [0-1];
+parameters_MINERALIZATION;Ps;Initial proportion of the stable SOC pool (Cs/C0);Real [0-1];
+parameters_MINERALIZATION;k0;Potential mineralization rate;Real [0-1];yr-1
+parameters_MINERALIZATION;aT;a parameter of the temperature function;Real;
+parameters_MINERALIZATION;cT;c parameter of the temperature function;Real;K-1
+parameters_MINERALIZATION;Tref;Reference temperature;Real;°C
+parameters_MINERALIZATION;aH;a parameter of the moisture function;Real;
+parameters_MINERALIZATION;bH;b parameter of the moisture function;Real;m-1
+parameters_MINERALIZATION;am;Parameter of the clay function;Real;g.kg-1 
+parameters_MINERALIZATION;cm;Parameter of the CaCO3 function;Real;g.kg-1 
+parameters_MINERALIZATION;apH;a parameter of the pH function;Real;
+parameters_MINERALIZATION;bpH;b parameter of the pH function;Real;
+parameters_MINERALIZATION;aCN;a parameter of C:N ratio function;Real;
+parameters_MINERALIZATION;bCN;b parameter of C:N ratio function;Real;
+outputs_C_SUPPLY;Trial;Name of the trial;Character;
+outputs_C_SUPPLY;Treatment;Name of the treatment in the trial;Character;
+outputs_C_SUPPLY;Year;Year;Integer;
+outputs_C_SUPPLY;Crop_type;Crop type (MC for main crop, CC for cover crop, CCH for harvested cover crop);Character [MC,CC,CCH];
+outputs_C_SUPPLY;Crop_name;Crop name;Character;
+outputs_C_SUPPLY;Considered_depth;Depth of SOC stock and C input calculations;Real;cm
+outputs_C_SUPPLY;CAG;Crop aboveground C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CBG;Crop belowground C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CPLT;Total C inputs from crop (aboveground + belowground);Real;tC.ha-1
+outputs_C_SUPPLY;CAG_hum;Crop aboveground humified C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CBG_hum;Crop belowground humified C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CPLT_hum;Total humified C inputs from crop (aboveground + belowground);Real;tC.ha-1
+outputs_C_SUPPLY;CEOM;Exogenous organic matter C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CEOM_hum;Exogenous organic matter humified C inputs;Real;tC.ha-1
+outputs_C_SUPPLY;CTOT;Total C inputs (crop + exogenous organic matter);Real;tC.ha-1
+outputs_C_SUPPLY;CTOT_hum;Total humified C inputs (crop + exogenous organic matter);Real;tC.ha-1
+outputs_SOC_STOCKS;Trial;Name of the trial;Character;
+outputs_SOC_STOCKS;Treatment;Name of the treatment in the trial;Character;
+outputs_SOC_STOCKS;Year;Year;Integer;
+outputs_SOC_STOCKS;Time;Time in year (first year = 0);Integer;yr
+outputs_SOC_STOCKS;Crop_name_MC;Name of the main crop;Character;
+outputs_SOC_STOCKS;Crop_name_CC;Name of the cover crop;Character;
+outputs_SOC_STOCKS;Crop_name_CCH;Name of the harvested cover crop;Character;
+outputs_SOC_STOCKS;T_mean;Annual mean temperature;Real;°C
+outputs_SOC_STOCKS;Rainfall;Annual rainfall;Real;mm
+outputs_SOC_STOCKS;PET;Annual Potential Evapotranspiration (Penman calculation);Real;mm
+outputs_SOC_STOCKS;Clay;Clay content in the considered soil depth (measured after decarbonation);Real;g.kg-1 DW
+outputs_SOC_STOCKS;CaCO3;Calcium carbonate content in the considered soil depth;Real;g.kg-1 DW
+outputs_SOC_STOCKS;pH;Soil pH in the considered soil depth (measured in water);Real;
+outputs_SOC_STOCKS;CN_ratio;Soil C:N ratio in the considered soil depth;Real;
+outputs_SOC_STOCKS;Considered_depth;Depth of SOC stock calculation;Real;cm
+outputs_SOC_STOCKS;Initial_SOC_stock;Initial SOC stock in the considered soil depth;Real;tC.ha-1
+outputs_SOC_STOCKS;Tillage_depth_year;Annual maximum tillage depth;Real;cm
+outputs_SOC_STOCKS;Irrigation_year;Annual irrigation dose;Real;mm
+outputs_SOC_STOCKS;CTOT_hum_year;Annual total humified C inputs;Real;tC.ha-1.yr-1
+outputs_SOC_STOCKS;fT;Environmental mineralization function (effect of temperature);Real;
+outputs_SOC_STOCKS;fH;Environmental mineralization function (effect of soil moisture);Real;
+outputs_SOC_STOCKS;fA;Environmental mineralization function (effect of clay content);Real;
+outputs_SOC_STOCKS;fC;Environmental mineralization function (effect of CaCO3 content);Real;
+outputs_SOC_STOCKS;fpH;Environmental mineralization function (effect of soil pH);Real;
+outputs_SOC_STOCKS;fCN;Environmental mineralization function (effect of soil C:N ratio);Real;
+outputs_SOC_STOCKS;k;Mineralization rate of the active SOC pool;Real;yr-1
+outputs_SOC_STOCKS;QC;Total SOC stock;Real;tC.ha-1
+outputs_SOC_STOCKS;QCS;Stable SOC stock;Real;tC.ha-1
+outputs_SOC_STOCKS;QCA;Active SOC stock;Real;tC.ha-1
