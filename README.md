@@ -1,6 +1,6 @@
 # AMG_base
 
-AMB_base is a R version of the AMGv2 model (Clivot et al., 2019: https://doi.org/10.1016/j.envsoft.2019.04.004).
+AMG_base is a R version of the AMGv2 model (Clivot et al., 2019: https://doi.org/10.1016/j.envsoft.2019.04.004).
 It is a simple model simulating topsoil organic carbon (SOC) stocks in arable cropping systems, at an annual time step.
 
 This R code gives identical results than the C++ version "AMG_recherche".
