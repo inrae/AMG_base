@@ -33,6 +33,11 @@ The model can be run using the R file `AMG_script` in the `scripts` directory:
 - The output files (`outputs_C_SUPPLY` and `outputs_SOC_STOCKS`) are saved in the `outputs` directory.
 - Input and output variable definitions, types and units are available in the csv file `AMG_base_variable_list`.
 
+## Citation
+
+- Code: see https://hal.science/hal-04553490
+- Parameters: see https://doi.org/10.57745/MEQQIX
+
 ## Contact
 
 Fabien Ferchaud <fabien.ferchaud@inrae.fr>
